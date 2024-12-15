@@ -1,4 +1,4 @@
-We were asked to
+# Task Details 
 [1] Get lowest local price
 1. Get name, address, open times, menu items, & prices for Village from Yelp API
 2. Get top-rated 5 restaurants in 2 km with similar menu items
@@ -19,12 +19,12 @@ Price should be more than lowest local price
 >ELSE
 Price should be lowest local price
 
-# SUBMISSION
+SUBMISSION
 1. Github code link
 2. How to run
 3. Display outputs for each step on a webpage or console
 
-**Analysis Workflow for Village the Soul of India
+# **Analysis Workflow for Village the Soul of India
 1. Restaurant Details Retrieval:
 We began by extracting the name, address, and open status of the restaurant Village the Soul of India from Yelp.
 
