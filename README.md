@@ -1,23 +1,23 @@
 # Task Details 
-[1] Get lowest local price
-1. Get name, address, open times, menu items, & prices for Village from Yelp API
-2. Get top-rated 5 restaurants in 2 km with similar menu items
-3. DISPLAY menu items & prices for Village + each restaurant
+[1] Get lowest local price  
+1. Get name, address, open times, menu items, & prices for Village from Yelp API  
+2. Get top-rated 5 restaurants in 2 km with similar menu items  
+3. DISPLAY menu items & prices for Village + each restaurant  
 
-[2] Get busy times & bad weather
-4. Get Village busy times from GMaps API
-5. Get temperature & rain near Village
+[2] Get busy times & bad weather  
+4. Get Village busy times from GMaps API  
+5. Get temperature & rain near Village  
 6. DISPLAY both
 
-[3] DISPLAY Village menu with predicted prices using ANY ML algo:
-IF
-7.1 Temp is < 45 deg. Fahrenheit (note API returns Kelvin, convert to F)
-7.2 It will snow or get moderate or heavy rain
-7.3 Village is busier than usual
-THEN
-Price should be more than lowest local price
-ELSE
-Price should be lowest local price
+[3] DISPLAY Village menu with predicted prices using ANY ML algo:  
+IF  
+7.1 Temp is < 45 deg. Fahrenheit (note API returns Kelvin, convert to F)  
+7.2 It will snow or get moderate or heavy rain  
+7.3 Village is busier than usual  
+THEN  
+Price should be more than lowest local price  
+ELSE  
+Price should be lowest local price  
 
 SUBMISSION
 1. Github code link
