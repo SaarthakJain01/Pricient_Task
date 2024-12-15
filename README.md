@@ -9,14 +9,14 @@
 5. Get temperature & rain near Village
 6. DISPLAY both
 
--[3] DISPLAY Village menu with predicted prices using ANY ML algo:
->IF
+[3] DISPLAY Village menu with predicted prices using ANY ML algo:
+IF
 7.1 Temp is < 45 deg. Fahrenheit (note API returns Kelvin, convert to F)
 7.2 It will snow or get moderate or heavy rain
 7.3 Village is busier than usual
->THEN
+THEN
 Price should be more than lowest local price
->ELSE
+ELSE
 Price should be lowest local price
 
 SUBMISSION
