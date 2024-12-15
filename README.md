@@ -24,7 +24,7 @@ SUBMISSION
 2. How to run
 3. Display outputs for each step on a webpage or console
 
-# **Analysis Workflow for Village the Soul of India
+# Analysis Workflow for Village the Soul of India
 1. Restaurant Details Retrieval:
 We began by extracting the name, address, and open status of the restaurant Village the Soul of India from Yelp.
 
