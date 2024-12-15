@@ -43,8 +43,8 @@ Leveraging the RapidFuzz library, we compared the menu items of Village the Soul
 6. Data Merging:
 All gathered data, including competitor details, menu comparisons, and pricing information, were merged into a single dataset. Despite encountering numerous null values during this process, we proceeded to the next stage while planning for null value reduction in subsequent steps.
 
-7. Null Value Reduction:
-Efforts were made to minimize the null values using imputation techniques, ensuring a cleaner and more comprehensive dataset.
+7. Null Value Reduction*:
+Efforts were made to minimize the null values and get a more comprehensive dataset.
 
 8. Popular Times Data:
 By utilizing the pytz and datetime libraries, we identified the current day of the week and hour. To enhance our analysis, we incorporated data on the restaurant’s popular times (rush hours) by referencing a GitHub repository and integrating details obtained via the Google Maps API.
