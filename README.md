@@ -23,11 +23,6 @@
 - **Else:**
   - Prices should match the lowest local price.
 
-### Submission Requirements
-1. Provide a GitHub link to the code.
-2. Include instructions on how to run the solution.
-3. Display outputs for each step on a webpage or console.
-
 ---
 
 ## Analysis Workflow for Village the Soul of India
